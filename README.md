@@ -16,7 +16,7 @@
 - 🔄 **Game over screen** with instant restart functionality
 - 🎨 **Modern UI** with gradient backgrounds and smooth graphics
 - ⚡ **Responsive controls** with spacebar jumping
-- 🎵 **Visual feedback** with character animations and smooth movemen
+- 🎵 **Visual feedback** with character animations and smooth movement in it
 
 ## 🎯 Gameplay
 
