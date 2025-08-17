@@ -2,7 +2,7 @@
 
 > A thrilling 2D platformer game built with Java Swing - Jump, survive, and beat your high score!
 
-![Light Runner Game Screenshot](https://github.com/Arnazz10/LightRunner/assets/your-username/lightrunner-screenshot.png)
+![Light Runner Game Screenshot](<img width="907" height="540" alt="Image" src="https://github.com/user-attachments/assets/12949792-83af-4a66-90a9-647c778b44a2" />)
 
 *The game in action - featuring smooth graphics, responsive controls, and an engaging gameplay experience!*
 
