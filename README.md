@@ -1,6 +1,6 @@
 # 🎮 Light Runner
 
-> A thrilling 2D platformer game built with Java Swing - Jump, survive, and beat your high score!
+> A thrilling 2D platformer game built with Java Swing - Jump, survive, and beat your high score
 
 <p align="center">
 <img src="lightrunner-screenshot.png" alt="Light Runner Game Screenshot">
