@@ -84,7 +84,7 @@ Control a blue character and jump over obstacles to survive as long as possible!
 - **Responsive window** with proper sizing
 - **Cross-platform compatibility** (Windows, macOS, Linux)
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 The game features a modern dark theme with:
 - ✨ Gradient background for depth
