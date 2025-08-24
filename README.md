@@ -35,7 +35,7 @@ Control a blue character and jump over obstacles to survive as long as possible!
 ### Prerequisites
 - Java 8 or higher installed on your system
 
-### Installation & Running
+### Installation & Runnin
 
 1. **Clone the repository:**
    ```bash
