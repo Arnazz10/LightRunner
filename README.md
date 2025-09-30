@@ -12,7 +12,7 @@
 
 ## ✨ Features
 
-- 🚀 **Smooth jumping mechanics** with realistic gravity physic
+- 🚀 **Smooth jumping mechanics** with realistic gravity physics
 - 🎯 **Obstacle avoidance gameplay** - jump over red obstacles to survive in it.
 - 📊 **Score tracking** and persistent high score system
 - 🔄 **Game over screen** with instant restart functionality
